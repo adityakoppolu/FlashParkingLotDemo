@@ -1,0 +1,32 @@
+/* You can add global styles to this file, and also import other style files */  
+h1{  
+    color:red;  
+    font-weight:bold;  
+    font-size: 30px;   
+}  
+h2{  
+    color:blue;  
+    font-size: 20px;  
+}  
+  
+p{  
+    color:brown;  
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+}
+.red {color:red;}  
+.blue {color:blue}  
+.cyan {color : cyan}  
+.brown {color : brown}     
+.parent{  
+    background-color: bisque;  
+    font-family: Arial, Helvetica, sans-serif;  
+    font-weight: bolder;  
+    font-size: large;  
+}  
+  
+.child2{  
+    background-color:coral;  
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+    font-weight: bold;  
+    font-size: medium;  
+}  
